@@ -28,6 +28,7 @@ Machine Learning Yearning - Andrew Ng
 The Hundred-Page Machine Learning Book - Andriy Burkov  
 Reinforcement Learning: An Introduction - Richard Sutton and Andrew Barto  
 Machine Learning: A Probabilistic Perspective - Kevin Murphy  
+[Data-Driven Science & Engineering - Steven Brunton and Nathan Kutz](https://databookuw.com/databook.pdf)
 
 ### DEEP LEARNING:
 A Visual Intro to Deep Learning - Meor Amer  
