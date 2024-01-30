@@ -13,6 +13,7 @@ The Art of Statistics - David Spiegelhalter
 Mathematical Statistics and Data Analysis - John A. Rice  
 Elements of Statistical Learning - Trevor Hastie et al.  
 Introduction to Statistical Learning by Trevor Hastie et al.  
+Introduction to Probability - Bertsekas and Tsitsiklis - 2nd Ed.  
 [Mathematics for Machine Learning - Marc Peter Deisenroth et al.](https://mml-book.github.io/book/mml-book.pdf)  
 Mathematics of Machine Learning - Martin Lotz  
 
