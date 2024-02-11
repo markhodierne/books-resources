@@ -35,5 +35,5 @@ Machine Learning: A Probabilistic Perspective - Kevin Murphy
 A Visual Intro to Deep Learning - Meor Amer  
 [Neural Networks and Deep Learning - Michael Nielsen](http://neuralnetworksanddeeplearning.com/)  
 [Deep Learning - Ian Goodfellow et al.](https://www.deeplearningbook.org/)  
-Deep Learning with Python - François Chollet
-Deep Learning with PyTorch - Eli Stevens, Luca Antiga, Thomas Viehmann 
+Deep Learning with Python - François Chollet  
+Deep Learning with PyTorch - Eli Stevens, Luca Antiga, Thomas Viehmann  
