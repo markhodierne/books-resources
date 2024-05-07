@@ -7,6 +7,7 @@ The Black Swan - Nassim Taleb
 The Master Algorithm - Pedro Domingos  
 Artificial Intelligence a Guide for Thinking Humans - Melanie Mitchell  
 The Art of Statistics - David Spiegelhalter  
+Machine Learning System Design Interview - Ali Aminian and Alex Xu
 
 ### MATHEMATICS:
 [Linear Algebra Done Right - Sheldon Axler](https://linear.axler.net/)  
